@@ -1,0 +1,27 @@
+﻿@model teshCore.Models.Alumnos
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+<form>
+    <div>
+        <label asp-for="nombreAlumno" >Nombre del Alumno</label>
+        <input asp-for="nombreAlumno" type="text" />
+    </div>
+    <div>
+        <label asp-for="apellidoAlumno" >Apellido del Alumno</label>
+        <input asp-for="apellidoAlumno" type="text" />
+    </div>
+    <div>
+        <label asp-for="calificacionAlumno" >Calificacion del Alumno</label>
+        <input asp-for="calificacionAlumno" type="number" />
+    </div>
+    <div>
+        <label asp-for="fechaNacimientoAlumno"> Fecha de nacimiento del Alumno</label>
+        <input asp-for="fechaNacimientoAlumno" type="datetime" />
+    </div>
+
+
+</form>
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teshCore", "teshCore\teshCore.csproj", "{AD2137FA-4EBF-4028-A4A9-B376A52369FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD2137FA-4EBF-4028-A4A9-B376A52369FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2137FA-4EBF-4028-A4A9-B376A52369FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2137FA-4EBF-4028-A4A9-B376A52369FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2137FA-4EBF-4028-A4A9-B376A52369FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3784936C-35DA-4DE5-9568-44BB4D714C81}
+	EndGlobalSection
+EndGlobal
